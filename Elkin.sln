@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elkin", "Elkin\Elkin.csproj", "{894A3010-703B-47E9-9E1E-DCE19D2BBD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894A3010-703B-47E9-9E1E-DCE19D2BBD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894A3010-703B-47E9-9E1E-DCE19D2BBD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894A3010-703B-47E9-9E1E-DCE19D2BBD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894A3010-703B-47E9-9E1E-DCE19D2BBD89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BDF4DB7-2F37-4A8D-A038-CFDCF5DC5175}
+	EndGlobalSection
+EndGlobal
